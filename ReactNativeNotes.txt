@@ -1,0 +1,9 @@
+CREATE A NEW PROJECT!
+
+npx create-expo-app@latest AppName --template expo-template-blank@57
+
+npx expo install react-native-web react-dom
+
+npx expo start
+
+=====================================================
